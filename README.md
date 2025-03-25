@@ -13,7 +13,7 @@ Prerequisites:
 
 ## Architecture Diagram
 
-![architecture-diagram](azure-architecture-diagram.png?raw=true)
+![architecture-diagram](./db-migration-azure-data-engg-master/azure-architecture-diagram.png?raw=true)
 
 
 ## Project Steps
